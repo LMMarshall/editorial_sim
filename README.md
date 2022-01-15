@@ -1,5 +1,5 @@
 # editorial_sim
-Arena-based simulation of editorial workflows
+An Arena-based simulation of editorial workflows.
 
 This repo contains 2 workflow simulation files designed to run in the Arena software package from Rockwell Software:
 
